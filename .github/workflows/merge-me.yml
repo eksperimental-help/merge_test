@@ -15,4 +15,4 @@ jobs:
         uses: ridedott/merge-me-action@v2
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # GITHUB_LOGIN: eksperimental
+          GITHUB_LOGIN: eksperimental
